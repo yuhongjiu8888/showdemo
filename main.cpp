@@ -2,7 +2,7 @@
 #include<iostream>
 #include <ctime>
 #include <unistd.h>
-
+/*Ö÷º¯Êý*/
 int main(){
 	clock_t start,end;
 	start= clock();

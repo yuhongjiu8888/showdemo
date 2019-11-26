@@ -64,6 +64,7 @@ void PersonInfo::setAvary(){
 	mAvary[5] = v5;
 }
 
+/*生成验证码*/
 std::string PersonInfo::genCode(){
 	std::string ss;
 	for(int i=1;i<=6;i++){
